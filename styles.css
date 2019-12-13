@@ -1,3 +1,24 @@
 .navbar{
     text-align: center;
 }
+.logo-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+}
+
+.navbar {
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: space-around;
+}
+
+.centered { margin: auto; max-width: 1150px;}
+
+.mission-statement {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1.5em;
+}
